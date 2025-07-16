@@ -38400,7 +38400,7 @@
  "insetBorder": false,
  "paddingLeft": 0,
  "paddingRight": 0,
- "url": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d360.39053584773797!2d-75.82176018074007!3d6.546048197360234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1ses!2sco!4v1752697557266!5m2!1ses!2sco\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen>",
+ "url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1503.6033673681638!2d-75.82232977029486!3d6.5462776759033385!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8e45b61d70e60899%3A0x80d3dbf6fc0bb86e!2sLa%20Milla%20Condominio%20Campestre%20-%20construye%20URBE%20PROTORA%20DE%20PROYECTOS%20S.A.S!5e1!3m2!1ses-419!2sco!4v1752701529675!5m2!1ses-419!2sco\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0\" allowfullscreen>",
  "backgroundColorRatios": [
   0
  ],
